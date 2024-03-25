@@ -2,4 +2,4 @@
 
 ### Creation of Cruddur Architecture Diagram as per the example
 
-![Cruddur Diagram](/assets/cruddur-acrhitectural-design.png)
+![Cruddur Diagram](assets/cruddur-architectural-design.png)
