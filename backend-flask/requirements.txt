@@ -3,6 +3,6 @@ flask-cors
 
 opentelemetry-api
 opentelemetry-sdk
-opentelemetry-exporter-otlp-pronto-http
+opentelemetry-exporter-otlp
 opentelemetry-instrumentation-flask
 opentelemetry-instrumentation-requests
